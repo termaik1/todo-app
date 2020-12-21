@@ -1,4 +1,4 @@
-module github.com/zhashkevych/todo-app
+module github.com/termaik1/todo-app
 
 go 1.15
 
